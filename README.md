@@ -1,2 +1,3 @@
-# Store
-Exercice de présentation Angular
+# angular-ExempleStore
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-fkyhkt-ymswdv)
